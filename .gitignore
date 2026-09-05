@@ -1,0 +1,27 @@
+# Intellij
+
+.idea/
+*.iml
+out/
+
+# NetBeans
+
+nbproject/
+build/
+dist/
+manifest.mf
+build.xml
+
+# Compliados Java
+
+*.class
+*.jar
+
+# VS Code
+
+.vscode/
+
+# Sistema
+
+.DS_Store
+Thumbs.db
